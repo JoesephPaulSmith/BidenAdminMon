@@ -1,22 +1,36 @@
 Every Sunday during the Biden Administration, I hope to make a bullet-point post about a collection of remaining problems not only from the Trump administration, but also other past administrations (Obama, Bush, Clinton, etc.), and what's being done about them as far as I can scour on the web. If the 2020 elections made anything clear with record turnout, there are some deep fissures that we need to be conscious of, and do what we can collectively to at least mitigate if not resolve. Contact your representative in the US House and your Senators to voice your thoughts on these and other issues, and just do what you can.
 
-- Pandemic economic stimulus: in progress, Biden signed orders laying the groundwork for further stimulus and allows for the increase of SNAP food benefits state-by-state -> https://www.cbsnews.com/news/biden-stimulus-check-executive-order-food-stamps-minimum-wage/
+- Pandemic economic stimulus: path pretty much set w/ reconciliation in the Senate -> https://www.cnbc.com/2021/01/31/republican-senators-present-smaller-covid-proposal.html
 
 - This Twitter account is useful -> https://twitter.com/WaitingOnBiden so a handful of what follows could come from that 
 
-- Tangential to economic stimulus is the cancelling of student debt. There were rumblings that this is under serious consideration as Bloomberg had a headline pop up on my phone. I'll leave the googling to y'all to confirm. The fact that Bloomberg (the news agency) is talking it up means a lot, at least to me.
+- Tangential to economic stimulus is the cancelling of student debt -> Rumblings only at the moment... Chuck Shumer hashtagged support this week, along with Elizabeth Warren, amongst others
 
-- Family separations at the US-Mexico border, and the related detention/concentration camps (overview -> https://www.esquire.com/news-politics/a27813648/concentration-camps-southern-border-migrant-detention-facilities-trump/): According to Mother Jones, it appears that Biden will be tackling that this upcoming week -> https://www.motherjones.com/politics/2021/01/trump-family-separation-biden-aclu/, Independent too -> https://www.independent.co.uk/news/world/americas/biden-immigration-mexico-amlo-call-b1791775.html
+- Family separations at the US-Mexico border, and the related detention/concentration camps (overview -> https://www.esquire.com/news-politics/a27813648/concentration-camps-southern-border-migrant-detention-facilities-trump/):
+-- The policy that enabled the separations at the border was rescinded -> https://www.npr.org/2021/01/27/961048895/justice-department-rescinds-trumps-zero-tolerance-immigration-policy 
 
-- Citizenship for undocumented immigrants: in progress per this, with congressional caveats as expected -> https://www.aljazeera.com/news/2021/1/20/sigh-of-relief-immigration-advocates-welcome-biden-proposal
+- Citizenship for undocumented immigrants: in progress
+-- Folks ready for Biden's plan -> https://www.cnn.com/2021/01/31/us/biden-immigration-proposal-undocumented-immigrants-reactions/index.html
+-- Foreign Policy weighs in with an editorial -> https://foreignpolicy.com/2021/01/29/biden-immigration-reform-visas-students-workers/
+-- Just putting this in for reference, as it's an interesting dynamic to it all -> https://www.metafilter.com/189565/A-US-immigrant-on-racism-and-shame
+-- Processing -> https://www.voanews.com/usa/immigration/asylum-camp-swells-us-mexico-border-biden-aide-urges-patience; https://www.cnn.com/2021/01/28/politics/immigration-biden-mexico-border/index.html
 
-- Healthcare -> A lot of opine pieces out there as of today... clearly the pandemic is overriding things at the moment
+- Healthcare
+-- Some executive orders issued this week to expand ACA coverage and open a new special enrollment period -> https://www.healthaffairs.org/do/10.1377/hblog20210129.998616/full/
+-- Froze late Trump acts -> https://www.healthcareitnews.com/news/biden-plans-regulatory-freeze-amid-flurry-health-hires
 
-- Marijuana legalization: Good gesture towards that with the DNC leader pick -> https://www.marijuanamoment.net/biden-taps-marijuana-legalization-supporter-to-lead-democratic-national-committee/, and we have better than average odds in the legislature -> https://www.esquire.com/lifestyle/health/a35279210/joe-biden-weed-legalization-cannabis-law-status/
+- Marijuana legalization: 'There’s no stopping the industry now' -> https://www.politico.com/news/2021/01/31/marijuana-policy-democrats-senate-463816
 
-- Systemic racism: executive order out of the gate -> https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/ (opening salvo, more later I'm confident)
+- Systemic racism: 
+-- Fact sheet on last week's actions -> https://www.whitehouse.gov/briefing-room/statements-releases/2021/01/26/fact-sheet-president-biden-to-take-action-to-advance-racial-equity-and-support-underserved-communities/
+-- 1776 commission is dead -> https://chicago.suntimes.com/columnists/2021/1/26/22251548/joe-biden-susan-rice-executive-orders-systemic-racism-trump-1776-commission-private-prisons-aapi
+-- Words matter -> https://abc11.com/president-joe-biden-racial-equity-systemic-racism-unc/10047049/
 
-- Climate, last, not at all least: https://www.reuters.com/article/us-usa-climate/biden-administration-to-unveil-more-climate-policies-urges-china-to-toughen-emissions-target-idUSKBN29S0PA?il=0; https://www.scientificamerican.com/article/here-are-all-the-climate-actions-biden-took-on-day-one/
+- Gun reform -> usual reaction to this. Google "Gun Reform Biden"
+
+- Climate, last, not at all least:
+-- Paywalled for me, but Foreign Policy suggests a holy alliance on climate -> https://foreignpolicy.com/2021/01/31/biden-pope-francis-climate-change-miracle/
+-- The battle from CNBC's standpoint: https://www.cnbc.com/2021/01/31/bidens-climate-change-plan-and-americas-most-threatened-workers.html
 
 I've saved this list so I can add on, take out as needed. Heck, it may be useful to make a GitHub of it, and I did -> https://github.com/JoesephPaulSmith/BidenAdminMon . Anywho, again, we need to do what we can, and not lose sight of what's possible with the new arrangement in the national government. 
 
