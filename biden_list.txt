@@ -1,27 +1,24 @@
-Every Sunday during the Biden Administration, I hope to make a bullet-point post about a collection of remaining problems not only from the Trump administration, but also other past administrations (Obama, Bush, Clinton, etc.), and what's being done about them as far as I can scour on the web. If the 2020 elections made anything clear with record turnout, there are some deep fissures that we need to be conscious of, and do what we can collectively to at least mitigate if not resolve. ***Contact your representative in the US House and your Senators to voice your thoughts on these and other issues, and just do what you can.***
+Every Sunday during the Biden Administration, I hope to make a bullet-point post about a collection of remaining problems not only from the Trump administration, but also other past administrations (Obama, Bush, Clinton, etc.), and what's being done about them as far as I can scour on the web. If the 2020 elections made anything clear with record turnout, there are some deep fissures that we need to be conscious of, and do what we can collectively to at least mitigate if not resolve. ******Contact your representative in the US House and your Senators to voice your thoughts on these and other issues, and just do what you can.******
 
-- Pandemic economic stimulus: Harris got the 'blueprint' for it through. Otherwise, disappointingly stalled
+- The Trump Impeachment trial took a lot of attention capacity this week. It was partly good to see it takeover broadcast/over-the-air television starting at noon and lasting hours a few days straight. You'd be forgiven, however, if you wonder how much of it was theatre. Yes, getting the evidence in the public record is great. Yes, there are interesting complications when it comes to Republicans voting to convict. Yes, Trump's acquittal is, in fact, a poor reflection on the country as a whole. The evidence is overwhelming that he set up the fire pit, loaded up the wood and kindling, and struck some matches. Sometime after the matches were struck, there was fire. Regardless, the 14th Amendment appears to be our next best chance to bar Trump from the presidency -> https://www.thedailybeast.com/impeachment-didnt-hurt-trump-the-fourteenth-amendment-can. There are also his upcoming trials in New York and Georgia -> https://www.reuters.com/article/us-usa-election-georgia/georgia-prosecutor-says-trump-probe-will-look-at-intent-idUSKBN2AC1FM. Let's keep the pressure on.
+
+While attention was pointed that way...
+
+- Pandemic economic stimulus: gambling -> https://www.politico.com/news/2021/02/13/biden-cuts-medicare-farm-aid-468895; Otherwise, Biden is laser-focused on getting stimulus delivered -> https://www.cnbc.com/2021/02/12/biden-stimulus-plan-extra-unemployment-benefits-may-be-coming.html
 
 - This Twitter account is useful -> https://twitter.com/WaitingOnBiden so a handful of what follows could come from that 
 
-- Tangential to economic stimulus is the cancelling of student debt -> Rumblings still... Chuck Shumer hashtagged support this week, along with Elizabeth Warren, amongst others. Executive action is on the table
+- Tangential to economic stimulus is the cancelling of student debt: “The President continues to support the canceling of student debt to bring relief to students and families,” Biden press secretary Jen Psaki tweeted on February 4. “Our team is reviewing whether there are any steps he can take through executive action, and he would welcome the opportunity to sign a bill sent to him by Congress.” -> https://www.voanews.com/student-union/student-loan-forgiveness-plan-receives-more-scrutiny (the quote was from a couple weeks ago, this article is from the past week)
 
 - Family separations at the US-Mexico border, and the related detention/concentration camps (overview -> https://www.esquire.com/news-politics/a27813648/concentration-camps-southern-border-migrant-detention-facilities-trump/):
--- Discussion on The Hill -> https://thehill.com/homenews/administration/537629-biden-immigration-policy-looks-beyond-reversing-trump
--- More executive orders this week:
---- https://www.govexec.com/management/2021/02/biden-signs-order-aimed-reuniting-migrant-families-separated-border-under-trump-administration/171876/
---- https://www.whitehouse.gov/briefing-room/presidential-actions/2021/02/02/executive-order-the-establishment-of-interagency-task-force-on-the-reunification-of-families/
---- https://www.politico.com/news/2021/02/02/biden-executive-orders-family-separation-464816
+-- Slowly opening the border -> https://apnews.com/article/biden-25000-asylum-seekers-782c8495f29d9d73f2ffc80d5b2a2aef
+-- Citizenship for undocumented immigrants I think is folded into that article
 
-- Citizenship for undocumented immigrants: in progress, looks like mostly localized stuff happened this past week, nothing on the national level
+- Healthcare: check that first article under pandemic stimulus. Medicare is on the line. Vaccinations continue, albeit at a slower pace than needed. 
 
-- Healthcare: nada this week. Vaccinations continue, albeit at a slower pace than needed. Some of last week's actions probably need to settle in to take effect.
+- Systemic racism: lots of regional stories; ACLU announces a campaign -> https://thehill.com/homenews/news/537991-aclu-unveils-campaign-to-end-systemic-racism
 
-- Marijuana legalization: State-level legalization efforts of many varieties in full steam... google'm
-
-- Systemic racism: discussion pieces mainly from my POV
-
-- Gun reform -> usual reaction to this. Google "Gun Reform Biden"
+- Gun reform: "Biden calls on Congress to 'enact commonsense gun law reforms' on third anniversary of Parkland shooting" -> https://www.cnn.com/2021/02/14/politics/biden-parkland-anniversary-gun-reform/index.html
 
 - Climate, last, not at all least: seems like opine pieces and just on-the-ground reports across the board
 
