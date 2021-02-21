@@ -1,26 +1,29 @@
-Every Sunday during the Biden Administration, I hope to make a bullet-point post about a collection of remaining problems not only from the Trump administration, but also other past administrations (Obama, Bush, Clinton, etc.), and what's being done about them as far as I can scour on the web. If the 2020 elections made anything clear with record turnout, there are some deep fissures that we need to be conscious of, and do what we can collectively to at least mitigate if not resolve. ******Contact your representative in the US House and your Senators to voice your thoughts on these and other issues, and just do what you can.******
+You know, what has Joe (Biden) been up to this week?
+******Contact your representative in the US House and your Senators to voice your thoughts on these and other issues******
 
-- The Trump Impeachment trial took a lot of attention capacity this week. It was partly good to see it takeover broadcast/over-the-air television starting at noon and lasting hours a few days straight. You'd be forgiven, however, if you wonder how much of it was theatre. Yes, getting the evidence in the public record is great. Yes, there are interesting complications when it comes to Republicans voting to convict. Yes, Trump's acquittal is, in fact, a poor reflection on the country as a whole. The evidence is overwhelming that he set up the fire pit, loaded up the wood and kindling, and struck some matches. Sometime after the matches were struck, there was fire. Regardless, the 14th Amendment appears to be our next best chance to bar Trump from the presidency -> https://www.thedailybeast.com/impeachment-didnt-hurt-trump-the-fourteenth-amendment-can. There are also his upcoming trials in New York and Georgia -> https://www.reuters.com/article/us-usa-election-georgia/georgia-prosecutor-says-trump-probe-will-look-at-intent-idUSKBN2AC1FM. Let's keep the pressure on.
+- Let's keep the pressure on Trump, ensuring he can never take office again. He's already got a speaking engagement at the CPAC conference next week. 
 
-While attention was pointed that way...
-
-- Pandemic economic stimulus: gambling -> https://www.politico.com/news/2021/02/13/biden-cuts-medicare-farm-aid-468895; Otherwise, Biden is laser-focused on getting stimulus delivered -> https://www.cnbc.com/2021/02/12/biden-stimulus-plan-extra-unemployment-benefits-may-be-coming.html
+- Pandemic economic stimulus: to quote Ted Lieu (D-CA), "We will pass the American Rescue Plan legislation next week. It's a very good bill. And it's what the American people need during this challenging time" -> https://www.newsweek.com/1400-stimulus-checks-will-pass-house-next-week-says-democratic-lawmaker-ted-lieu-1570793 ("next week" should be in reference to this week, as that was said last week Friday, a couple days ago)
+-- Details on Medicare and other healthcare related program changes here -> https://www.jdsupra.com/legalnews/the-biden-administration-s-potential-9860333/
+-- It's the pace of 'any' stimulus being as slow as it is that really alarms me. We're a big country, and we've been starving ourselves of the things we desperately need for decades now (yes, even before the pandemic). People have literally and figuratively broken their backs to achieve any resemblence of a quality life, and that has had deep impacts across the board, not just in the overall economy, but also at a personal level: physical, biological, and consequentially mental deterioration. We need to stop this national self harm, and give ourselves some help and care.
+--- Speaking of mental health: there's a really important discussion going on regarding the recent movie "Music" -> https://www.billboard.com/articles/news/9529005/kate-hudson-addresses-criticism-sia-music-movie (Google for more stories)
 
 - This Twitter account is useful -> https://twitter.com/WaitingOnBiden so a handful of what follows could come from that 
 
-- Tangential to economic stimulus is the cancelling of student debt: “The President continues to support the canceling of student debt to bring relief to students and families,” Biden press secretary Jen Psaki tweeted on February 4. “Our team is reviewing whether there are any steps he can take through executive action, and he would welcome the opportunity to sign a bill sent to him by Congress.” -> https://www.voanews.com/student-union/student-loan-forgiveness-plan-receives-more-scrutiny (the quote was from a couple weeks ago, this article is from the past week)
+- Tangential to economic stimulus is the cancelling of student debt: just chatter this week
 
 - Family separations at the US-Mexico border, and the related detention/concentration camps (overview -> https://www.esquire.com/news-politics/a27813648/concentration-camps-southern-border-migrant-detention-facilities-trump/):
--- Slowly opening the border -> https://apnews.com/article/biden-25000-asylum-seekers-782c8495f29d9d73f2ffc80d5b2a2aef
--- Citizenship for undocumented immigrants I think is folded into that article
+-- Immigration reform proposal explained -> https://www.voanews.com/usa/us-politics/bidens-immigration-reform-proposal-explained
+-- "Frank Sharry, the founder of the immigrant advocacy group America’s Voice, said Biden has “leaned in” on immigration, in contrast to the more cautious early days of Obama’s first term." -> https://www.washingtonpost.com/national/biden-administration-tries-to-transition-from-campaigning-on-immigration-to-managing-a-dysfunctional-immigration-system/2021/02/20/9c97efd4-6e51-11eb-9ed1-73d434b5147f_story.html (Other pullquotes: “I cannot overstate the fact that the prior administration completely dismantled the program and it takes time to rebuild it in a way that addresses the humanitarian needs of the individuals who seek to access it,” Mayorkas said. “And if people wait and they see how this works in an orderly, safe and efficient manner, that is the best ticket to greater success in the future.” ... “We can’t run away as Democrats from reality,” Gonzalez said. “We’re not going to separate families or cage kids, but we need to continue having smart, good policy on our border to deal with asylum claims.”)
 
-- Healthcare: check that first article under pandemic stimulus. Medicare is on the line. Vaccinations continue, albeit at a slower pace than needed. 
+- Healthcare: Vaccinations continue, check second article under stimulus for updates there.
 
-- Systemic racism: lots of regional stories; ACLU announces a campaign -> https://thehill.com/homenews/news/537991-aclu-unveils-campaign-to-end-systemic-racism
+- Systemic racism: lots of regional stories, nothing new otherwise
 
-- Gun reform: "Biden calls on Congress to 'enact commonsense gun law reforms' on third anniversary of Parkland shooting" -> https://www.cnn.com/2021/02/14/politics/biden-parkland-anniversary-gun-reform/index.html
+- Gun reform: nothing new... :/
 
-- Climate, last, not at all least: seems like opine pieces and just on-the-ground reports across the board
+- Climate, last, not at all least: Texas got hit hard by the greater variability in weather patterns brought on by climate change, with the deep diving polar vortex that impacted a large swath of the CONUS this week. Politics aside, my sincerest condolences to those who lost loved ones in the storm(s), and best wishes for a speedy recovery (or more likely, as speedy as possible).
+-- The US has officially rejoined the Paris climate agreement -> https://www.scientificamerican.com/article/u-s-officially-rejoins-paris-climate-agreement/ (here we go!)
 
 I've saved this list so I can add on, take out as needed. Heck, it may be useful to make a GitHub of it, and I did -> https://github.com/JoesephPaulSmith/BidenAdminMon . Anywho, again, we need to do what we can, and not lose sight of what's possible with the new arrangement in the national government. 
 
