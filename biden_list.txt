@@ -1,33 +1,34 @@
-It's 3.14.2021, or approximately Pi Day. Joe Biden is still POTUS, as he was lawfully elected as such. 
+It's Easter 2021. Last week, when the bi-weekly Biden report was due, I was on a well needed vacation out to Hocking Hills, OH. I'll get select pics out from that in a couple weeks as to not curse myself. At any rate, Joe Biden is still POTUS, as he was lawfully elected as such. What's he been up to the past few weeks?
 
-- About that CPAC stage -> https://thenationalpulse.com/breaking/cpac-nazi-rune-stage-lie-falls-apart/ (possible trolling going on)
-
-- Pandemic economic stimulus: signed, sealed, and delivery in progress -> https://www.vox.com/2021/3/14/22330410/stimulus-checks-third-irs-when
--- Some of the major banks say they're expecting them to get disbursed on 3/17 for their customers
-
-- This Twitter account is useful -> https://twitter.com/WaitingOnBiden so a handful of what follows could come from that 
+- Pandemic economic stimulus: signed, sealed, and *3rd* delivery in progress -> https://www.vox.com/2021/3/14/22330410/stimulus-checks-third-irs-when
+-- lots of advice online regarding when you'll get yours, and how to spend it
+-- a 4th stimulus is being floated out there, presumably as a trial balloon
 
 - Tangential to economic stimulus is the cancelling of student debt: write your reps, senators on this one
+-- "President Joe Biden has directed his education secretary to explore his authority to cancel student debt by executive order." -> https://www.usatoday.com/in-depth/news/politics/2021/04/04/president-joe-biden-considering-student-loan-forgiveness/7006659002/
+---> https://www.nbcnews.com/politics/white-house/biden-review-executive-authority-cancel-student-debt-n1262791
+-- Some discussion -> https://www.forbes.com/sites/zackfriedman/2021/04/03/biden-student-loans-review-could-mean-this-for-student-loan-cancellation/?sh=6de6156e8cbd
+---> https://finance.yahoo.com/news/4-signs-major-relief-student-140400803.html
 
-- Family separations at the US-Mexico border, and the related detention/concentration camps (overview -> https://www.esquire.com/news-politics/a27813648/concentration-camps-southern-border-migrant-detention-facilities-trump/): 
--- The House is on it -> https://www.usatoday.com/story/news/politics/2021/03/14/immigration-bills-on-house-agenda-democrats-hopeful-for-senate-votes/4562678001/
---- More -> https://www.vox.com/policy-and-politics/2021/3/12/22321668/house-immigration-reform-dream-promise-farm-worker
--- The challenge before the Biden Admin -> https://thehill.com/homenews/administration/543041-biden-officials-struggle-to-unravel-web-of-trump-immigration-rules
+- Family separations at the US-Mexico border (overview -> https://www.esquire.com/news-politics/a27813648/concentration-camps-southern-border-migrant-detention-facilities-trump/): 
+-- Tiny bit of good news in the past week: "Biden administration announces end to Trump-era rule that rejected certain immigration applications with blank spaces" -> https://www.cnn.com/2021/04/01/politics/blank-spaces-immigration-applications/index.html
+-- Otherwise, chronicles of battling what is best described as a wicked problem -> https://cbs4local.com/news/local/immigration-advocacy-groups-tell-their-side-of-the-border-crisis
+---> https://fivethirtyeight.com/features/how-democrats-became-stuck-on-immigration/
 --- The challenge overall is contained within discussion in this catch-all thread (which I'll try to leave here for the foreseeable future) -> https://www.metafilter.com/190690/Government-is-back-The-first-50-days-of-the-Biden-Harris-administration
--- FEMA brought in to address the increase in migrant children -> https://www.bbc.com/news/world-us-canada-56391688
 
+- Healthcare: nothing floating to the top this week from a quick scan
 
-- Healthcare: NGOs are looking into how some developed countries and pharma companies, including the US, are managing the vaccine rollout -> https://www.metafilter.com/190744/Vaccine-Scarcity-A-Policy-Choice-That-Prolongs-the-Pandemic
-
-- Systemic racism: It's been a year since Breonna Taylor's murder -> https://www.npr.org/2021/03/13/976875804/hundreds-gather-in-louisville-to-mark-1-year-since-breonna-taylors-death
--- Her boyfriend has filed a lawsuit -> https://www.cnn.com/2021/03/14/us/breonna-taylor-boyfriend-kenneth-walker-lawsuit/index.html
+- Systemic racism: 
+-- An admin fact sheet -> https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/21/fact-sheet-u-s-efforts-to-combat-systemic-racism/
+-- Outside of the admin, "The State of Minnesota vs. Derek Chauvin" and the death of George Floyd https://www.metafilter.com/190939/The-State-of-Minnesota-vs-Derek-Chauvin
 -- No Justice, No Peace
 
 - Gun reform:
--- House is on it -> https://www.npr.org/2021/03/11/976000003/house-passes-bills-to-strengthen-gun-laws-including-expanding-background-checks
--- Meanwhile, sales on the rise -> https://www.cnn.com/2021/03/14/us/us-gun-sales-record/index.html
+-- Background checks on the rise amidst recent shootings -> https://www.cnn.com/2021/04/01/business/gun-sales-march/index.html
 
-- Climate, last, not at all least: nothing directly new... think pieces abound
+- Climate, last, not at all least: 
+-- " ‘Green New Deal’ leaders see Biden climate plans as a victory, kind of " -> https://www.opb.org/article/2021/04/04/green-new-deal-leaders-see-biden-climate-plans-as-a-victory-kind-of/
+-- "Kerry: U.S. 'hopeful' it can work with China to tackle climate change" -> https://www.reuters.com/article/us-emirates-climate/kerry-u-s-hopeful-it-can-work-with-china-to-tackle-climate-change-idUSKBN2BQ0H7?il=0
 
 I've saved this list so I can add on, take out as needed. Heck, it may be useful to make a GitHub of it, and I did -> https://github.com/JoesephPaulSmith/BidenAdminMon . Anywho, again, we need to do what we can, and not lose sight of what's possible with the new arrangement in the national government. 
 
